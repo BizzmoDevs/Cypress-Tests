@@ -15,4 +15,5 @@ describe('2. Find All Elements', () => {
     it ('Find Calculator', ()=> {
         cy.get('.calculator-grid').should("be.visible");
     });
+
 });
