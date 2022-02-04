@@ -1,0 +1,56 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Karol",
+      "surname": "Odwald",
+      "profile": "Master"
+    },
+    {
+      "id": 2,
+      "name": "Arnold",
+      "surname": "Boczek",
+      "profile": "Desperado"
+    },
+    {
+      "id": 3,
+      "name": "Gandalf",
+      "surname": "Grey",
+      "profile": "Magician"
+    }
+  ],
+  "weapons": [
+    {
+      "name": "Sword",
+      "power": 40,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Dagger",
+      "power": 10
+    },
+    {
+      "id": 3,
+      "name": "Axe",
+      "power": 25
+    }
+  ],
+  "spells": [
+    {
+      "id": 1,
+      "name": "Fireball",
+      "power": 10
+    },
+    {
+      "id": 2,
+      "name": "Firestorm",
+      "power": 30
+    },
+    {
+      "id": 3,
+      "name": "Thunderball",
+      "power": 20
+    }
+  ]
+}
