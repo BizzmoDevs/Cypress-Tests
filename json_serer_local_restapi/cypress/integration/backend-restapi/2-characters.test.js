@@ -7,6 +7,8 @@ describe("CHARACTERS END POINT TEST", ()=>{
         cy.request({
             method:"GET",
             url: "http://localhost:3000/characters"
+        }).then((res)=>{
+            expect(res.status).to.eq(200);
         })
 
     })
